@@ -27,5 +27,5 @@
 10. Create a tidy data set called tidy.txt with the average of each variable for each activity and subject using dcast(molten)
 11. Create code book with a list of variables extracted from the features file and write to local disk
 
-### Additional information about the variables, data and transformations may be found in the CodeBook.MD file.
+### Additional information about the variables, data and transformation may be found in the CodeBook.MD file.
 
